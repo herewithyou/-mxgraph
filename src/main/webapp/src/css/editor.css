@@ -1,0 +1,14 @@
+.draw
+{
+    border-style: solid;
+    margin-top: 10px;
+    border-radius: 6px 6px 6px 6px;
+    border-width: 2px;
+    border-color: Gray;
+    position: relative;
+    height: 600px;
+    width: 86%;
+    margin-left: 110px;
+    margin-right: auto;
+    position: relative;
+}
